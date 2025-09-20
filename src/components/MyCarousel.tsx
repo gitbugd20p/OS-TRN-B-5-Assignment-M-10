@@ -66,7 +66,7 @@ function MyCarousel() {
             </Carousel>
 
             <div className="text-muted-foreground py-2 text-center text-sm">
-                Slide - {current}
+                Slide - {current} of {count}
             </div>
         </div>
     );
